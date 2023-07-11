@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=`finartz_com`
+html <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0" alt="Recent Article 0"> 
