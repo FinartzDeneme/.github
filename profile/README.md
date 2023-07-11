@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Finartz'a Hoşgeldin 👋</h1>
 
 ###
 
@@ -66,13 +66,14 @@
 
 ###
 
-##Read Our Medium Posts:
+<h1 align="center">Medium Yazılarımızı Oku: </h1>
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@finartz_com/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@finartz_com/0" alt="Recent Article 0"> 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@finartz_com/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@finartz_com/2" alt="Recent Article 2"> 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@finartz_com/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@finartz_com/3" alt="Recent Article 3"> 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@finartz_com/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@finartz_com/4" alt="Recent Article 4"> 
 
+<h1 align="center">Videolar: </h1>
 [![Watch the video](https://img.youtube.com/vi/IhnwG8MNmKY/maxresdefault.jpg)](https://youtu.be/IhnwG8MNmKY)
 
 
