@@ -73,4 +73,6 @@
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@finartz_com/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@finartz_com/3" alt="Recent Article 3"> 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@finartz_com/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@finartz_com/4" alt="Recent Article 4"> 
 
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
+[![Watch the video](https://img.youtube.com/vi/IhnwG8MNmKY/maxresdefault.jpg)](https://youtu.be/IhnwG8MNmKY)
+
+
