@@ -77,3 +77,10 @@
 [![Watch the video](https://img.youtube.com/vi/IhnwG8MNmKY/maxresdefault.jpg)](https://youtu.be/IhnwG8MNmKY)
 
 
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=@finartz_com" alt="Layout with last medium posts"  />
+</div>
+
+
